@@ -19,7 +19,7 @@ I am currently building microservices.<br>I am looking forward to collaborating 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftestbytessoftware.medium.com%2F50-funny-programming-memes-for-programmers-testbytes-ffa75eb8dcd7&psig=AOvVaw3hR1I9PNA4EChAnaaIJAGC&ust=1671621931297000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLC0io2LiPwCFQAAAAAdAAAAABAF" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dinesh13506&icon=0&color=0)](https://visitcount.itsvg.in)
