@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently building microservices.<br>I am looking forward to collaborating on open-source java/javascript projects.<br>
+#                                                     Hi 👋, I am Dinesh Kumar
+About me? Current working Senior software engineer. I'm passionate about problem solving and I love solving DSA problems & building scalable mircroservices.<br>
 
 
 ## 🌐 Socials:
