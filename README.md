@@ -1,4 +1,4 @@
-#                                                     Hi 👋, I am Dinesh Kumar
+#                                                     Hi 👋, I am Dinesh K
 About me? Current working as a Senior Software Engineer. I'm passionate about problem solving and I love solving DSA problems & building scalable mircroservices.<br>
 
 
